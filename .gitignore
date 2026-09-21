@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+venv/
+
+# Output files (generated at runtime)
+masked.xlsx
+restored.xlsx
+mapping.xlsx
+
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
